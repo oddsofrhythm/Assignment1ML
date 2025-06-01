@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Assignment1ML",
+			"path": "../../Assignment1ML"
+		},
+		{
+			"name": "Assignment1ML-1",
+			"path": "../../Assignment1ML-1"
+		}
+	],
+	"settings": {}
+}
